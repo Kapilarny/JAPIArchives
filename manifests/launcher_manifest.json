@@ -3,13 +3,7 @@
     "data": {
         "launcher": {
             "version": "0.0.1",
-            "install_url": "https://github.com/Kapilarny/JAPI/releases/latest"
-        }
-    },
-    "manifests": {
-        "JAPI": {
-            "version": "0.0.1",
-            "url": "..."
+            "install_url": "https://github.com/Kapilarny/JAPI/releases/tag/4.1.0/"
         }
     }
 }

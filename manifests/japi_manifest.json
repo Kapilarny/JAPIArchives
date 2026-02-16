@@ -1,8 +1,10 @@
 {
     "manifest_version": "0.0.1",
-    "versions": [
-        {
-            "version": "4.1.0"
-        }
-    ]
+    "data": {
+        "versions": [
+            {
+                "version": "4.1.0"
+            }
+        ]
+    }
 }
