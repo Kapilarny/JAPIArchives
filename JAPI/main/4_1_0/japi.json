@@ -1,0 +1,10 @@
+{
+    "version": "4.1.0",
+    "preload_version": "1.0.0",
+    "dlls": [
+        "imgui_shared.dll",
+        "libgcc_s_seh-1.dll",
+        "libstdc++-6.dll",
+        "libwinpthread-1.dll"
+    ]    
+}
